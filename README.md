@@ -42,7 +42,7 @@ Aplikasi ini dikembangkan menggunakan teknologi PHP dan MySQL, dengan antarmuka 
 ### Halaman Generate ID Pengguna
 ![generate id user](public/images/generate_id.png)
 
-### QR Code User
+### QR Code Pengguna
 ![qr code user](public/images/qr-code.png)
 
 ### Halaman Scan QR Code
@@ -82,7 +82,7 @@ Aplikasi ini dikembangkan menggunakan teknologi PHP dan MySQL, dengan antarmuka 
 
 ---
 
-## Setup Guide
+## ⚙️ Setup Guide
 
 ### Clone Project
 ```bash
