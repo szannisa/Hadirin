@@ -9,6 +9,7 @@ Menu
 ![tambah kegiatan](public/images/add-event.png)
 ![ubah kegiatan](public/images/edit-event.png)
 ![generate id user](public/images/generate_id.png)
+![qr code user](public/images/qr-code.png)
 ![scan qr code](public/images/scan-qr.png)
 <br>
 
